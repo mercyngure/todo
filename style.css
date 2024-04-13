@@ -16,7 +16,7 @@ body{
     margin-top: 20px;
     margin-left: 10px;
 }
-.row{
+.container{
     display: flex;
     background: #ebe7e7;
     justify-content: space-between;
@@ -40,6 +40,8 @@ button{
     border: none;
     outline: none;
     cursor: pointer;
+    width: 60px;
+    height: 3opx;
 }
 ul li{
     list-style: none;
